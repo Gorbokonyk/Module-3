@@ -14,6 +14,7 @@ body{
 }
 #nav-list {
 	background-color: ;
+	text-align: center;
 }
 .navbar-nav a:hover {
 	background-color: #EDEFF2;
