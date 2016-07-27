@@ -15,18 +15,17 @@ body{
 
 }
 #nav-list a {
-	background-color: transparent;
+
 	text-align: center;
-	opacity: 0.7;
 	font-size: 1em;
-	
 	font-weight: bold;
 }
 #nav-list a:hover{
 		background: #E7E7E7;
 	}
 .navbar-nav a:hover {
-	background-color: #EDEFF2;
+	/*background-color: #EDEFF2;*/
+	background-color: transparent;
 	
 }
 h5{
