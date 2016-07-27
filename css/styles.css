@@ -6,6 +6,10 @@ body{
 	background: url(http://worldoftanks.ru/dcont/fb//media/tiger2wall/1920_1280.jpg);
 
 }
+#my_navbar{
+	opacity: 0.8;
+}
+}
 .navbar-default {
 	background-color: #AD99BA;
 	opacity: 0.8;
