@@ -20,6 +20,9 @@ body{
 	text-transform: uppercase;
 	font-weight: bold;
 }
+#nav-list a:hover{
+		background: #E7E7E7;
+	}
 .navbar-nav a:hover {
 	background-color: #EDEFF2;
 	
