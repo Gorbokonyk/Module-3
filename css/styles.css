@@ -66,8 +66,8 @@ h5{
 
 }
 .box1:hover{
-	box-shadow: 10px 10px 10px 10px #cccccc;
-		opacity: 0.9;
+	box-shadow: 5px 5px 5px 5px #cccccc;
+	opacity: 0.9;
 }
 
 .h1 {
