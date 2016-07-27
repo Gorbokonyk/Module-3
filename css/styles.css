@@ -3,7 +3,7 @@
 }
 body{
 	/*background-color: #EDEFF2;*/
-
+	background: url(http://worldoftanks.ru/dcont/fb//media/tiger2wall/1920_1280.jpg)
 
 }
 .navbar-default {
@@ -11,7 +11,7 @@ body{
 }
 .navbar-toggle{
 	background-color: #EDEFF2;
-        background: url(http://worldoftanks.ru/dcont/fb//media/tiger2wall/1920_1280.jpg)
+        
 
 }
 #nav-list a {
