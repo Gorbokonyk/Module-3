@@ -75,5 +75,14 @@ h5{
 	text-decoration-color: currentColor red;
 }
 
+@media (max-width: 767px){
+.box1 {
+	
+	width: 98%;
+	height: 400px;
 
+	
+
+}	
+}
 
