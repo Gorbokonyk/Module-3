@@ -79,6 +79,13 @@ h5{
 	height: 480px;
 }
 }
+@media (min-width: 768px) and (max-width: 991px){
+.box1{	width: 98%;
+	height: 380px;
+	
+}
+}
+
 @media (max-width: 767px){
 .box1 {
 	
