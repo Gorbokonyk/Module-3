@@ -76,13 +76,13 @@ h5{
 }
 @media (min-width: 768px) and (max-width: 991px){
 	width: 98%;
-	height: 480px;
+	height: 380px;
 }
 @media (max-width: 767px){
 .box1 {
 	
 	width: 98%;
-	height: 480px;
+	height: 420px;
 
 }	
 }
